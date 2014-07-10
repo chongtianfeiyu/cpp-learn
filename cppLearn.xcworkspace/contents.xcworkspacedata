@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Workspace
+   version = "1.0">
+   <FileRef
+      location = "group:cpp_03_classes/cpp_03_classes.xcodeproj">
+   </FileRef>
+   <FileRef
+      location = "group:cpp_02_namespace/cpp_02_namespace.xcodeproj">
+   </FileRef>
+   <FileRef
+      location = "group:cpp_01_oo/cpp_01_oo.xcodeproj">
+   </FileRef>
+</Workspace>
