@@ -2,6 +2,18 @@
 <Workspace
    version = "1.0">
    <FileRef
+      location = "group:cpp_10_pseudo_fuction/cpp_10_pseudo_fuction.xcodeproj">
+   </FileRef>
+   <FileRef
+      location = "group:cpp_09_operator_overload/cpp_09_operator_overload.xcodeproj">
+   </FileRef>
+   <FileRef
+      location = "group:cpp_08_overload/cpp_08_overload.xcodeproj">
+   </FileRef>
+   <FileRef
+      location = "group:cpp_07_functions/cpp_07_functions.xcodeproj">
+   </FileRef>
+   <FileRef
       location = "group:cpp_06_super_method/cpp_06_super_method.xcodeproj">
    </FileRef>
    <FileRef
