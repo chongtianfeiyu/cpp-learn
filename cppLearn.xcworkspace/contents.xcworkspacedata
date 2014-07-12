@@ -2,6 +2,15 @@
 <Workspace
    version = "1.0">
    <FileRef
+      location = "group:cpp_06_super_method/cpp_06_super_method.xcodeproj">
+   </FileRef>
+   <FileRef
+      location = "group:cpp_05_super_construct/cpp_05_super_construct.xcodeproj">
+   </FileRef>
+   <FileRef
+      location = "group:cpp_04_construct_function/cpp_04_construct_function.xcodeproj">
+   </FileRef>
+   <FileRef
       location = "group:cpp_03_classes/cpp_03_classes.xcodeproj">
    </FileRef>
    <FileRef
