@@ -14,10 +14,10 @@
             buildForAnalyzing = "YES">
             <BuildableReference
                BuildableIdentifier = "primary"
-               BlueprintIdentifier = "434D3418196E88B900167C68"
-               BuildableName = "cpp_05_super_construct"
-               BlueprintName = "cpp_05_super_construct"
-               ReferencedContainer = "container:cpp_05_super_construct.xcodeproj">
+               BlueprintIdentifier = "4318FF731976664000A7117E"
+               BuildableName = "cpp_11_function_point"
+               BlueprintName = "cpp_11_function_point"
+               ReferencedContainer = "container:cpp_11_function_point.xcodeproj">
             </BuildableReference>
          </BuildActionEntry>
       </BuildActionEntries>
@@ -32,10 +32,10 @@
       <MacroExpansion>
          <BuildableReference
             BuildableIdentifier = "primary"
-            BlueprintIdentifier = "434D3418196E88B900167C68"
-            BuildableName = "cpp_05_super_construct"
-            BlueprintName = "cpp_05_super_construct"
-            ReferencedContainer = "container:cpp_05_super_construct.xcodeproj">
+            BlueprintIdentifier = "4318FF731976664000A7117E"
+            BuildableName = "cpp_11_function_point"
+            BlueprintName = "cpp_11_function_point"
+            ReferencedContainer = "container:cpp_11_function_point.xcodeproj">
          </BuildableReference>
       </MacroExpansion>
    </TestAction>
@@ -51,10 +51,10 @@
       <BuildableProductRunnable>
          <BuildableReference
             BuildableIdentifier = "primary"
-            BlueprintIdentifier = "434D3418196E88B900167C68"
-            BuildableName = "cpp_05_super_construct"
-            BlueprintName = "cpp_05_super_construct"
-            ReferencedContainer = "container:cpp_05_super_construct.xcodeproj">
+            BlueprintIdentifier = "4318FF731976664000A7117E"
+            BuildableName = "cpp_11_function_point"
+            BlueprintName = "cpp_11_function_point"
+            ReferencedContainer = "container:cpp_11_function_point.xcodeproj">
          </BuildableReference>
       </BuildableProductRunnable>
       <AdditionalOptions>
@@ -69,10 +69,10 @@
       <BuildableProductRunnable>
          <BuildableReference
             BuildableIdentifier = "primary"
-            BlueprintIdentifier = "434D3418196E88B900167C68"
-            BuildableName = "cpp_05_super_construct"
-            BlueprintName = "cpp_05_super_construct"
-            ReferencedContainer = "container:cpp_05_super_construct.xcodeproj">
+            BlueprintIdentifier = "4318FF731976664000A7117E"
+            BuildableName = "cpp_11_function_point"
+            BlueprintName = "cpp_11_function_point"
+            ReferencedContainer = "container:cpp_11_function_point.xcodeproj">
          </BuildableReference>
       </BuildableProductRunnable>
    </ProfileAction>
